@@ -1,0 +1,10 @@
+1) Crear venv
+python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
+
+2) Instalar deps
+pip install -r requirements.txt
+
+3) Correr API
+uvicorn api.main:app --reload --port 8000
+4) Correr UI
+streamlit run app/main_app.py

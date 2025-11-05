@@ -1,0 +1,41 @@
+DevOps Engineer job brief
+
+Join our dynamic team as an experienced DevOps Engineer and be at the forefront of streamlining our software development and deployment processes. Your expertise in DevOps practices, automation, and infrastructure management will be instrumental in creating efficient and scalable software delivery pipelines. Collaborating closely with cross-functional teams, you will play a critical role in optimizing our development workflow, from conceptualization and continuous integration to rigorous testing and successful deployment, ensuring our software solutions are delivered with maximum efficiency and reliability.
+
+DevOps Engineer job responsibilities:
+
+- Lead the implementation and management of DevOps practices, tools, and processes to streamline software development, testing, and deployment pipelines.
+
+- Collaborate closely with development and IT teams to automate and optimize build, deployment, and release processes, ensuring efficiency and reliability.
+
+- Proactively monitor and troubleshoot production systems, promptly identifying and resolving issues to maintain system availability and performance.
+
+- Continuously improve system reliability and scalability through infrastructure as code (IaC) and configuration management practices.
+
+- Implement and maintain CI/CD pipelines, integrating automated testing and deployment procedures to accelerate software delivery.
+
+- Stay up-to-date with industry trends and best practices in DevOps, security, and cloud computing, applying this knowledge to enhance our DevOps workflows.
+
+- Foster a culture of collaboration, knowledge sharing, and innovation within the DevOps team and across the organization.
+
+DevOps Engineer job requirements:
+
+- Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent hands-on experience).
+
+- Documented success as a DevOps Engineer, with a portfolio showcasing implemented CI/CD pipelines and infrastructure optimizations.
+
+- Proficiency in scripting languages such as Python, Bash, or Ruby for automation tasks.
+
+- Familiarity with containerization technologies like Docker and orchestration tools such as Kubernetes.
+
+- Strong understanding of cloud services, preferably AWS, Azure, or GCP, and experience with Infrastructure as Code (IaC) using tools like Terraform or CloudFormation.
+
+- Demonstrated experience with CI/CD tools like Jenkins, GitLab CI, or CircleCI to streamline development and deployment processes.
+
+- In-depth knowledge of version control systems, particularly Git, to facilitate collaborative coding and versioning.
+
+- Expertise in monitoring and logging tools like Grafana, Prometheus, or ELK stack for system observability.
+
+- Solid understanding of networking protocols, security practices, and troubleshooting methods.
+
+- Excellent communication and teamwork skills, suitable for a fast-paced, agile, and collaborative development environment.
